@@ -87,8 +87,12 @@
     * II. Vue.js
         * [1. Vue准备篇.md](Html/Vue/1. Vue准备篇.md)
 * [N3. Php相关](php.md)
-    * I. Laravel
+    * I. Basic
+        * [1. 基础知识.md](Php/Basic/1. 基础知识.md)
+        * [2. php配合redis使用.md](Php/Basic/2. php配合redis使用.md)
+    * II. Laravel
         * [1. Laravel视频学习笔记一.md](Php/Laravel/1. Laravel视频学习笔记一.md)
+
 
 * N4. 其他
 
