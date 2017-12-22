@@ -1,3 +1,4 @@
-# My Awesome Book
+# YiHuiTech
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+小灰灰的学习记录，主要用户搜集和记录日常学习的技术栈、bugfix、小工具开发等
+
