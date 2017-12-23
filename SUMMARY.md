@@ -64,6 +64,7 @@
         * [11. Java 实现图片合成.md](Java/QuickMedia/11. Java 实现图片合成.md)
         * [12. Java & PhantomJs 实现html输出图片.md](Java/QuickMedia/12. Java & PhantomJs 实现html输出图片.md)
         * [13. Java 支持图片合成的技术之旅.md](Java/QuickMedia/13. Java 支持图片合成的技术之旅.md)
+        * [14. 二维码无法指定无边距的修复.md](Java/QuickMedia/14. 二维码无法指定无边距的修复.md)
     * V. QuickMvc
         * [0. 重复造轮子—动手写MVC框架.md](Java/QuickMvc/0. 重复造轮子—动手写MVC框架.md)
         * [1. 包路径扫描.md](Java/QuickMvc/1. 包路径扫描.md)
@@ -81,6 +82,15 @@
         * [3. ForkJoin 学习使用笔记.md](Java/Other/3. ForkJoin 学习使用笔记.md)
         * [4. JDK学习之反射的使用姿势一览.md](Java/Other/4. JDK学习之反射的使用姿势一览.md)
         * [5. Java学习之深拷贝浅拷贝及对象拷贝的两种思路.md](Java/Other/5. Java学习之深拷贝浅拷贝及对象拷贝的两种思路.md)
+        * [6. Logback配置学习.md](Java/Other/6. Logback配置学习.md)
+        * [7. JOPO是个什么鬼.md](Java/Other/7. JOPO是个什么鬼.md)
+        * [8. Java中 VO、 PO、DO、DTO、 BO、 QO、DAO、POJO的概念.md](Java/Other/8. Java中 VO、 PO、DO、DTO、 BO、 QO、DAO、POJO的概念.md)
+        * [9. Java  一步一步实现高逼格的字符串替换工具（一）.md](Java/Other/9. Java  一步一步实现高逼格的字符串替换工具（一）.md)
+        * [10. Java  一步一步实现高逼格的字符串替换工具（二）.md](Java/Other/10. Java  一步一步实现高逼格的字符串替换工具（二）.md)
+    * VIII. 典型问题分析说明
+        * [1. fastJson序列化的一些常见问题.md](Java/Question/1. fastJson序列化的一些常见问题.md)
+        * [2. Spring 支持Jsonp.md](Java/Question/2. Spring 支持Jsonp.md)
+        * [3. Spring 支持跨域](Java/Question/3. Spring支持跨域.md)
 * [N2. Html相关](html.md)
     * I. Jquery.js
         * [1. Jquery 实战笔记.md](Html/Jquery/1. Jquery 实战笔记.md)
@@ -92,7 +102,11 @@
         * [2. php配合redis使用.md](Php/Basic/2. php配合redis使用.md)
     * II. Laravel
         * [1. Laravel视频学习笔记一.md](Php/Laravel/1. Laravel视频学习笔记一.md)
-
-
-* N4. 其他
+* N4. Shell相关
+    * [1. Git常用命令.md](Shell/1. Git常用命令.md)
+    * [2. Shell学习笔记.md](Shell/2. Shell学习笔记.md)
+    * [3. mysql之DB大小查看.md](Shell/3. mysql之DB大小查看.md)
+    * [4. Shell脚本之查找替换.md](Shell/4. Shell脚本之查找替换.md)
+* N5. 效率小工具
+    * [1. Chrome扩展程序之编码&时间戳小工具.md](Tool/1. Chrome扩展程序之编码&时间戳小工具.md)
 
