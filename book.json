@@ -19,7 +19,8 @@
         "sectionx@^3.1.0",
         "github",
         "splitter",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+		"expandable-chapters-small"
     ],
     "pluginsConfig": {
         "github": {
