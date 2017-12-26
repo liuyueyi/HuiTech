@@ -111,6 +111,7 @@
 ### 卷二、Html相关
 * [I. Jquery.js](Html/Jquery/jq.md)
     * [1. Jquery 实战笔记.md](Html/Jquery/1. Jquery 实战笔记.md)
+    * [2. Jquery常用插件](Html/Jquery/2. Jquery有意思的插件.md)
 * [II. Vue.js](Html/Vue/vue.md)
     * [1. Vue准备篇.md](Html/Vue/1. Vue准备篇.md)
 
