@@ -10,8 +10,6 @@
     },
     "plugins": [
         "-lunr",
-        "-search",
-        "-highlight",
         "-livereload",
         "-sharing",
         "sharing-plus",
@@ -23,6 +21,11 @@
 		"expandable-chapters-small"
     ],
     "pluginsConfig": {
+        "prism": {
+             "css": [
+               "prism-themes/themes/prism-duotone-dark.css"
+             ]
+        },
         "github": {
             "url": "https://github.com/liuyueyi"
         },
