@@ -129,9 +129,12 @@
 * [II. Shell相关](Shell/Shell/shell.md)
     * [1. Shell脚本之查找替换.md](Shell/Shell/1. Shell脚本之查找替换.md)
     * [2. Shell学习笔记.md](Shell/Shell/2. Shell学习笔记.md)
+    * [3. Shell学习笔记2.md](Shell/Shell/3. Shell学习笔记2.md)
 * [III. DB相关](Shell/DB/db.md)
     * [1. mysql之DB大小查看.md](Shell/DB/1. mysql之DB大小查看.md)
     * [2. mysql导入导出数据.md](Shell/DB/2. mysql导入导出数据.md)
+* [IV. Nginx相关](Shell/Nginx/nginx.md)
+    * [1. Nginx 路由转发配置笔记.md](Shell/Nginx/1. Nginx 路由转发配置笔记.md)
 * [1. python启动服务器.md](1. python启动服务器.md)
 
 ### 卷五、效率小工具
