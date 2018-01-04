@@ -43,8 +43,8 @@
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "donate": {
-            "wechat": "https://static.oschina.net/uploads/img/201712/25231019_EAUj.png",
-            "alipay": "https://static.oschina.net/uploads/img/201712/25231004_C8eu.png",
+			"wechat": "https://s3.mogucdn.com/mlcdn/c45406/180104_50136i33id9e49j1f7k2e219e3ldf_800x798.png",
+			"alipay": "https://s3.mogucdn.com/mlcdn/c45406/180104_0e6afl33b23lacj6ji2d7d060aiak_798x800.png",
             "title": "",
             "button": "壕赏",
             "alipayText": "支付宝打赏",
