@@ -143,6 +143,7 @@
 ### 卷五、效率小工具
 
 * [1. Chrome扩展程序之编码&时间戳小工具.md](Tool/1. Chrome扩展程序之编码&时间戳小工具.md)
+* [2. PopClip小工具.md](Tool/2. PopClip小工具.md)
 
 ### 卷六、开源包
 
@@ -156,13 +157,16 @@
     * [5. EventBus 深入学习五之注册.md](SourceProj/EventBus/5. EventBus 深入学习五之注册.md)
     * [6. EventBus 深入学习六之消息发送.md](SourceProj/EventBus/6. EventBus 深入学习六之消息发送.md)
 
-### 卷七、其他
 
-* [1. Centos安装gitbook.md](Other/1. Centos安装gitbook.md)
-
-
-### 卷八、项目实战沉淀
+### 卷七、项目实战沉淀
 
 * [I. 电商Java后端技术栈分析.md](Tech/电商Java后端技术栈分析.md)
     * [1. SpringMVC之请求参数的获取方式.md](Tech/JavaWeb/1. SpringMVC之请求参数的获取方式.md)
     * [2. SpringMVC直接返回图片.md](Tech/JavaWeb/2. SpringMVC直接返回图片.md)
+    * [3. SpringMVC如何支持跨域.md](Tech/JavaWeb/3. SpringMVC如何支持跨域.md)
+
+
+### 卷八、其他
+
+* [1. Centos安装gitbook.md](Other/1. Centos安装gitbook.md)
+* [2. Centos安装Hexo博客系统.md](Other/2. Centos安装Hexo博客系统.md)
