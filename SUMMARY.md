@@ -106,6 +106,7 @@
     * [1. fastJson序列化的一些常见问题.md](Java/Question/1. fastJson序列化的一些常见问题.md)
     * [2. Spring 支持Jsonp.md](Java/Question/2. Spring 支持Jsonp.md)
     * [3. Spring 支持跨域](Java/Question/3. Spring支持跨域.md)
+    * [4. Batik渲染png图片异常的bug修复.md](Java/Question/4. Batik渲染png图片异常的bug修复.md)
 
 * [IX. IO相关](Java/IO/io.md)
     * [1. java之读文件大全.md](Java/IO/1. java之读文件大全.md)
