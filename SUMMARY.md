@@ -107,6 +107,7 @@
     * [2. Spring 支持Jsonp.md](Java/Question/2. Spring 支持Jsonp.md)
     * [3. Spring 支持跨域](Java/Question/3. Spring支持跨域.md)
     * [4. Batik渲染png图片异常的bug修复.md](Java/Question/4. Batik渲染png图片异常的bug修复.md)
+    * [5. 兼容ImageIO读取jpeg图片变红.md](/Imported/yihuitech/Java/Question/5. 兼容ImageIO读取jpeg图片变红.md)
 
 * [IX. IO相关](Java/IO/io.md)
     * [1. java之读文件大全.md](Java/IO/1. java之读文件大全.md)
