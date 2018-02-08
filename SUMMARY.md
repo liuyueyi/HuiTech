@@ -101,6 +101,8 @@
     * [11. jvm调优的工具介绍.md](Java/Other/11. jvm调优的工具介绍.md)
     * [12. Redis实现分布式锁相关注意事项.md](Java/Other/12. Redis实现分布式锁相关注意事项.md)
     * [13. 基于OkHttp封装一个简单易用的http工具.md](Java/Other/13. 基于OkHttp封装一个简单易用的http工具.md)
+    * [14. Java中变量的初始化顺序.md](Java/Other/14. Java中变量的初始化顺序.md)
+    * [15. Java可以如何实现文件变动的监听.md](Java/Other/15. Java可以如何实现文件变动的监听.md)
 
 * [VIII. 典型问题分析说明](Java/Question/qs.md)
     * [1. fastJson序列化的一些常见问题.md](Java/Question/1. fastJson序列化的一些常见问题.md)
